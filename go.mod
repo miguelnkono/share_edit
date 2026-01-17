@@ -1,3 +1,5 @@
-module share_edit/m
+module share_edit
 
 go 1.25.4
+
+require github.com/mattn/go-sqlite3 v1.14.33 // indirect
